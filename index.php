@@ -7,7 +7,7 @@
 		<title>Welcome To CapITall.</title>	
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+		<link rel="apple-touch-icon" phref="img/apple-touch-icon.png">
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 		<!-- Web Fonts  -->
@@ -20,7 +20,7 @@
 		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
 		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
 		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
-		<!-- Revolution Slider Addon - Typewriter -->
+		<!-- Revolution Slider Addon -  -->
 		<link rel="stylesheet" type="text/css" href="vendor/rs-plugin/revolution-addons/typewriter/css/typewriter.css" />
 		<!-- Theme CSS -->
 		<link rel="stylesheet" href="css/theme.css">
@@ -48,7 +48,7 @@
 										<div class="col-md-9 col-lg-6">
 											<h1 class="text-color-light font-weight-extra-bold text-12 line-height-1 mb-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="500" data-appear-animation-duration="500ms" data-plugin-options="{'minWindowWidth': 0}">CapITall</h1>
 											<p class="text-4-5 text-color-light font-weight-light mb-4" data-plugin-animated-letters data-plugin-options="{'startDelay': 600, 'minWindowWidth': 0, 'animationSpeed': 50}">Information Technology & Data Analysis</p>
-											<h3 class="text-color-light">Get Started Now!</h3>
+											<h3 class="text-color-light">Hurry Up!</h3>
 										</div>
 										<div class="col-lg-5 offset-lg-1 d-none d-lg-block">
 											<div class="position-relative appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1500" data-plugin-options="{'minWindowWidth': 0}">
