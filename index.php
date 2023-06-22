@@ -20,7 +20,7 @@
 		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
 		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
 		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
-		<!-- Revolution Slider Addon - Typewriter -->
+		<!-- Revolution Slider Addon -  -->
 		<link rel="stylesheet" type="text/css" href="vendor/rs-plugin/revolution-addons/typewriter/css/typewriter.css" />
 		<!-- Theme CSS -->
 		<link rel="stylesheet" href="css/theme.css">
