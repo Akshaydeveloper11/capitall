@@ -71,7 +71,7 @@
 										<div class="col-md-9 col-lg-6 offset-lg-1">
 											<h1 class="text-color-light font-weight-extra-bold text-12 line-height-1 mb-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="500" data-appear-animation-duration="500ms" data-plugin-options="{'minWindowWidth': 0}">Financial Data Simplified</h1>
 											<p class="text-4-5 text-color-light font-weight-light mb-4" data-plugin-animated-letters data-plugin-options="{'startDelay': 600, 'minWindowWidth': 0, 'animationSpeed': 50}">We can help you with your project.</p>
-											<h3 class="text-color-light">Get Started Now!</h3>
+											<h3 class="text-color-light">nothin!</h3>
 										</div>
 									</div>
 								</div>
