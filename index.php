@@ -78,8 +78,86 @@
 												<img src="banner51.png" class="  p-3 mb-5 bg-body  rounded-circle text-center  " style="width:500px;height:500px;"alt="" />	
 											</div>
 										</div>
+<<<<<<< HEAD
 									
 			
+=======
+									</div>
+								</div>
+							</div>
+							<!-- Carousel Slide 2 -->
+							<div class="owl-item position-relative" style="height: calc( 100vh - 100px );">
+								<div class="container position-relative z-index-3 h-100">
+									<div class="row align-items-center h-100">
+										<div class="col-lg-5 d-none d-lg-block">
+											<div class="position-relative appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1000" data-plugin-options="{'minWindowWidth': 0}">
+												<img src="financial-statement.png" class="img-fluid" alt="" />
+												
+											</div>
+										</div>
+										<div class="col-md-9 col-lg-6 offset-lg-1">
+											<h1 class="text-color-light font-weight-extra-bold text-12 line-height-1 mb-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="500" data-appear-animation-duration="500ms" data-plugin-options="{'minWindowWidth': 0}">Financial Data Simplified</h1>
+											<p class="text-4-5 text-color-light font-weight-light mb-4" data-plugin-animated-letters data-plugin-options="{'startDelay': 600, 'minWindowWidth': 0, 'animationSpeed': 50}">We can help you with your project.</p>
+											<h3 class="text-color-light">nothin!</h3>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="owl-nav">
+						<button type="button" role="presentation" class="owl-prev"></button>
+						<button type="button" role="presentation" class="owl-next"></button>
+					</div>
+				</div>
+				<div class="container container-xl-custom py-5 my-5">
+					<div class="row justify-content-center">
+						<div class="col-xl-8 text-center mb-4">
+							<h2 class="font-weight-bold text-8 mb-3 appear-animation" data-appear-animation="fadeIn">Explore CapITall</h2>
+							<p class="line-height-9 text-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200"><span class="opacity-7">Capitall is a DIY data room. Manage, share, prepare and communicate with the teams and external members.</span></p>
+						</div>
+					</div>
+					<div class="row justify-content-center">
+						<div class="col-md-10 px-lg-5">
+							<div class="row">
+								<div class="col-md-6 mb-2 pb-2 px-2 appear-animation" data-appear-animation="fadeInRightShorter">
+									<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-info thumb-info-no-zoom thumb-info-slide-info-hover">
+										<span class="thumb-info-wrapper thumb-info-wrapper-no-opacity">
+											<img src="services-back.jpg" class="img-fluid" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-slide-info-hover-1">
+													<span class="thumb-info-inner text-4">Our Services</span>
+												</span>
+												<span class="thumb-info-slide-info-hover-2">
+													<span class="thumb-info-inner text-2">
+														<a href="data-room.php" class="d-inline-flex align-items-center btn btn-light text-color-dark font-weight-bold px-4 btn-py-2 text-1 rounded">VIEW OUR SERVICES <i class="fa fa-arrow-right ms-2 ps-1 text-3"></i></a>
+													</span>
+												</span>
+											</span>
+										</span>
+									</span>
+								</div>
+								<div class="col-md-6 mb-2 pb-2 px-2 appear-animation" data-appear-animation="fadeInLeftShorter">
+									<span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-centered-info thumb-info-no-zoom thumb-info-slide-info-hover">
+										<span class="thumb-info-wrapper thumb-info-wrapper-no-opacity">
+											<img src="corporate-team-bckgrnd-1400x600.jpeg" class="img-fluid" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-slide-info-hover-1">
+													<span class="thumb-info-inner text-4">Our Team</span>
+												</span>
+												<span class="thumb-info-slide-info-hover-2">
+													<span class="thumb-info-inner text-2">
+														<a href="team.php" class="d-inline-flex align-items-center btn btn-light text-color-dark font-weight-bold px-4 btn-py-2 text-1 rounded">VIEW OUR TEAM <i class="fa fa-arrow-right ms-2 ps-1 text-3"></i></a>
+													</span>
+												</span>
+											</span>
+										</span>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+>>>>>>> 4f26cadbaa803580ca5033fb54d841dca3611579
 				</div>
 			</div>
 			</div>
