@@ -6,7 +6,7 @@
 								<div class="header-row pe-4">
 									<div class="header-logo">
 										<a href="index.php">
-											<img alt="CapITall" width="80%"  src="capitall-new-logo.png">
+											<img alt="CapITall" width="180px" height="60px"  src="capitall.png">
 											<!-- <h1 style="margin:0px;font-weight: 600;color:#fff;">CapITall</h1> -->
 										</a>
 									</div>
